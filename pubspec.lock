@@ -17,6 +17,22 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.1.1"
+  bootstrap_alert:
+    dependency: "direct main"
+    description:
+      name: bootstrap_alert
+      sha256: a14d6779be53a854739b2b5f1ca44734796847a1346d58f8509be4bb70649c2e
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.1"
+  bootstrap_icons:
+    dependency: "direct main"
+    description:
+      name: bootstrap_icons
+      sha256: "28e6799bf951680110e4ce0790f2e55f849a786b7873f42b456d78bf6d130e96"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.10.5+2"
   characters:
     dependency: transitive
     description:
@@ -194,3 +210,4 @@ packages:
     version: "2.1.4"
 sdks:
   dart: ">=3.0.0 <4.0.0"
+  flutter: ">=1.17.0"
